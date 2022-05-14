@@ -1,3 +1,4 @@
+
 ### Hi
 
 <!--
@@ -19,3 +20,4 @@ Aku suka menyelesaikan masalah
 
 >Perbandingan kuat medan gravitasi antar 2 planet yang bermassa jenis sama. sama dengan 
 perbandingan jari jari antar 2 planet.
+![svg](https://user-images.githubusercontent.com/94767147/168409370-b9a60c99-bfd9-4090-b2de-ba42c2c2c171.png)
