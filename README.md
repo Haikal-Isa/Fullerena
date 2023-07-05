@@ -2,11 +2,11 @@
 
 <!--
 **Fullerena/Fullerena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Aku suka menyelesaikan masalah
 - tahukah anda
 
->Perbandingan kuat medan gravitasi antar 2 planet yang bermassa jenis sama. sama dengan 
+> Perbandingan kuat medan gravitasi antar 2 planet yang bermassa jenis sama. sama dengan 
 perbandingan jari jari antar 2 planet.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haikal-Isa&theme=react)](https://github.com/anuraghazra/github-readme-stats)
